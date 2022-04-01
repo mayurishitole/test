@@ -2,3 +2,4 @@ Hey There, this is fisrt line
 added second line from github
 diff- changes added
 added from release branch
+added sample in release= now do merge
